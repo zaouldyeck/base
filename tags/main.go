@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("working on versions with git tags")
+	fmt.Println("working on versions with git tags, v1.0.0")
 }
